@@ -1,8 +1,0 @@
-# Recommended for most uses
-DATABASE_URL=postgres://neondb_owner:npg_YF0IHlByWw1b@ep-odd-frost-a4r2jiwl-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
-
-DIRECT_URL=postgresql://neondb_owner:npg_YF0IHlByWw1b@ep-odd-frost-a4r2jiwl.us-east-1.aws.neon.tech/neondb?sslmode=require
-
-resend: re_X1i4RgnR_5Dbt5SEryC8jpnpEZjqW7f1v
-
-ivanvolkovversel@gmail.com
